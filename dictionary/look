@@ -1,0 +1,2309 @@
+
+
+<!DOCTYPE html>
+<html xmlns:vcom xmlns:fb>
+<head>	
+	<title>look - Dictionary Definition : Vocabulary.com</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <meta name="description" content="When you look, you focus your vision on someone or something. If you get to the movie late, you&#039;ll have to look for your friends in the darkened theater." />
+ 	<meta name="robots" content="noarchive" />
+ 	<meta name="googlebot" content="noodp, noarchive" />
+
+	<meta property="og:title" content="look - Dictionary Definition"/>
+    <meta property="og:site_name" content="Vocabulary.com" />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="https://www.vocabulary.com/images/icons/facebook-75x75.gif" />    
+    <meta property="og:description" content="When you look, you focus your vision on someone or something. If you get to the movie late, you&#039;ll have to look for your friends in the darkened theater."/>
+     
+	<link rel="search" type="application/opensearchdescription+xml" href="/search.xml" title="Vocabulary.com" />    
+	<link href="//cdn.vocab.com/images/ios-icons/114x114-off5pn.png" rel="apple-touch-icon" >
+	<link href="//cdn.vocab.com/images/favicons/favicon-32x32-2frmtt.png" sizes="32x32" rel="icon" type="image/png" >
+	<link href="//cdn.vocab.com/images/favicons/favicon-16x16-uf6i7e.png" sizes="16x16" rel="icon" type="image/png" >
+
+	
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+	<link href="//cdn.vocab.com/css/3/header-1ixqou4.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/3/main-3y5qj2.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/3/grids-1tyqegb.css" rel="stylesheet" type="text/css" >
+	
+	<link href="//cdn.vocab.com/css/progress-zjqx3f.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/dictionary-rlnzej.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/achievements-goaje8.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/leaderboards-1jskpje.css" rel="stylesheet" type="text/css" >
+	
+	<link href="//cdn.vocab.com/css/fonts/ss-social-circle-1708mdo.css" rel="stylesheet" type="text/css" >	
+	<link href="//cdn.vocab.com/css/fonts/ss-symbolicons-block-1u3l0c5.css" rel="stylesheet" type="text/css" >
+	<link href="//cdn.vocab.com/css/fonts/ss-standard-1nx9nw2.css" rel="stylesheet" type="text/css" >	
+		
+	<style> body { overflow-y: scroll; }</style>
+		
+	
+	
+
+<script src="//cdn.vocab.com/js/module-1h16d83.js" type="text/javascript" ></script>
+	
+	<script>
+	(function(){
+		window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+		ga('create', 'UA-154986-6', 'auto');
+		
+		var deps=['vcom/base','vcom/usermenu', 'vcom/maintabs' ,'vcom/dicttab' ]
+		try { window.localStorage.setItem('x','1'); window.localStorage.removeItem('x'); } catch (e) {
+			deps.unshift('localstorage');
+		}		
+		Module.after(deps,function(){
+			VCOM.authCache.get().then(function(auth){
+				if (auth.validUser) {
+					ga('set','dimension1',auth.paid?'paid':'free');
+					ga('set','dimension2',auth.ima||'other');
+					var role = (auth.auth && auth.auth.role) ? auth.auth.role.toLowerCase() : "";
+					if (role=='bill' && auth.plan) role = auth.plan;
+					if (role) ga('set','dimension3',role);
+					if (auth.classes && !auth.classes.empty)  ga('set','dimension4','inclass');
+				} else {
+					ga('set','dimension1','anon');					
+				}
+				ga('send', 'pageview');
+			});
+		});
+	})();
+	</script>
+
+		
+	<script async src='https://www.google-analytics.com/analytics.js'></script>
+	
+		
+	<script type="text/javascript">	
+	var noresults = false;		
+	</script>
+	
+	
+	
+</head>
+<body class="with-top-tab with-tab-dictionary top-section-none with-light-header">
+<div class="body-wrapper">
+<header class="page-header noselect" role="banner"><div class="limited-width"><nav class="main">
+		<a href="/" title="Vocabulary.com" class="logo" ><img src="//cdn.vocab.com/images/header/logo-1wobq9i.png" alt="Vocabulary.com" class="screen-only" ><img src="//cdn.vocab.com/images/logo-sar2cf.svg" class="print-only" ></a>
+		<div class="logininfo"></div><button role="button" aria-pressed="false" aria-label="navigation menu" class="hamburger menu"><span class="rows"></span></button></nav><nav class="tabs"><ul  ><li title="Play Vocabulary.com" class="playTab"><a  href="/play/"><span>PLAY</span></a></li><li title="Look up a word" class="dictTab selected empty"><a href="/dictionary/"><span>LOOK UP</span></a><div class="wrapper"><input id="search" type="text" autofocus spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" ><i role="button" class="ss-delete" ></i></div></li><li title="Find a Vocabulary List" class="listsTab"><a href="/lists/"><span>LISTS</span></a></li></ul></nav></div></header>
+<div class="fixed-tray"></div>
+<nav id="dictionaryNav" class="topsubnav content-wrapper mobile-drop-down" >
+				<ul >
+				<li class="selected"><a title="Vocabulary.com Dictionary Home Page" href="/dictionary/" >Vocabulary.com Dictionary</a></li>
+				<li ><a title="Show advanced search options" href="#advsearch">Advanced Search</a></li>
+				<li ><a title="Open the vocabulary list builder" href="#listbuilder">List Builder</a></li>
+				<li ><a title="Show a random vocabulary word" href="/dictionary/randomword">Random Word</a></li>				
+				</ul>
+</nav>
+
+<div id="page" class="page">
+<div id="pageContent" class="pageContent clearfloat">
+<div class="wordPage blurbed clearfloat content-wrapper" 
+   data-lang="en" data-word="look"    
+   data-maxfilterlevel="0"
+   data-learnable="false" data-next="look after" data-prev="long-winded"><div class="centeredContent"><h1 class="dynamictext">look<a data-audio="L/1P4QHPAZWSA1N" class="audio"></a></h1>
+			
+		<div class="definitionsContainer">		
+		
+		<div class="main">
+						
+		
+		
+		
+		<div class="section blurb">
+		<p class="short">When you <i>look</i>, you focus your vision on someone or something. If you get to the movie late, you'll have to <i>look</i> for your friends in the darkened theater.</p>
+				
+		
+		<div class="adslot" id="dictionary-upper-ad" data-adunit="Dictionary-Result-Right" data-dimensions="[[300, 250], [336, 280]]"></div>
+		
+		
+		
+		
+		<p class="long">The Old English word <i>locian</i> is the root of <i>look</i>, meaning "see, gaze, or spy." When you look at something, you see it. <i>Look</i> can also describe how something appears, like when your dog looks sad, or something likely to happen, like a gray day that looks like rain. As a noun, <i>look</i> describes someone's style of dress, like your brother, whose rock star look gets lots of compliments — except from Grandpa.</p>		
+		</div>	
+		
+		
+		</div>
+		
+		
+		<div class="section related nocontent robots-nocontent screen-only">
+		
+			
+		
+		
+			<div class="section tools">					
+					<vcom:addtolist word="look" lang="en"></vcom:addtolist>	
+					<a href="https://www.visualthesaurus.com/app/view?word=look&lang=en" 
+					   class="button thesaurus hide-mobile" 
+					   target="vt" 
+					   title="View in the Visual Thesaurus"><i></i>Thesaurus</a>
+					<vcom:share word="look" />
+			</div>
+			
+		
+		
+		<div class="adslot" id="dictionary-upper-ad-right" data-adunit="Dictionary-Result-Right" data-dimensions="[[300, 250], [336, 280]]"></div>				
+		</div>
+		
+		<div class="main">
+	
+		<div class="definitions">
+		
+		
+			<div class="section definition">	
+			<h2 class="sectionHeader">Primary Meanings of <span class="word">look</span></h2>		
+								
+			<table class="definitionNavigator" cellpadding="0" cellspacing="0" >
+			
+			
+			<tr>
+				<td style="width: 1%;"><div class="groupNumber">1.</div></td>
+				<td class="posList"><a title="verb - click to jump to the full definition" href="#s92746" class="anchorlink needsclick pos_v selected">v</a><a title="noun - click to jump to the full definition" href="#s4460" class="anchorlink needsclick pos_n">n</a></td>
+				<td>
+					<div class="def selected s92746">perceive with attention; direct one's gaze towards</div>
+				
+					<div class="def s4460">the act of directing the eyes toward something and perceiving it visually</div>
+				</td>
+			
+			</tr>
+			
+			
+			
+			<tr>
+				<td style="width: 1%;"><div class="groupNumber">2.</div></td>
+				<td class="posList"><a title="verb - click to jump to the full definition" href="#s92758" class="anchorlink needsclick pos_v selected">v</a><a title="noun - click to jump to the full definition" href="#s26077" class="anchorlink needsclick pos_n">n</a></td>
+				<td>
+					<div class="def selected s92758">give a certain impression or have a certain outward aspect</div>
+				
+					<div class="def s26077">physical appearance</div>
+				</td>
+			
+			</tr>
+			
+			
+			
+			<tr>
+				<td style="width: 1%;"><div class="groupNumber">3.</div></td>
+				<td class="posList"><a title="verb - click to jump to the full definition" href="#s92860" class="anchorlink needsclick pos_v selected">v</a></td>
+				<td>
+					<div class="def selected s92860">search or seek</div>
+				</td>
+			
+			</tr>
+			
+			
+			
+			<tr>
+				<td style="width: 1%;"><div class="groupNumber">4.</div></td>
+				<td class="posList"><a title="verb - click to jump to the full definition" href="#s95460" class="anchorlink needsclick pos_v selected">v</a></td>
+				<td>
+					<div class="def selected s95460">be oriented in a certain direction, often with respect to another reference point; be opposite to</div>
+				</td>
+			
+			</tr>
+			
+			
+			
+			<tr>
+				<td style="width: 1%;"><div class="groupNumber">5.</div></td>
+				<td class="posList"><a title="verb - click to jump to the full definition" href="#s94780" class="anchorlink needsclick pos_v selected">v</a></td>
+				<td>
+					<div class="def selected s94780">take charge of or deal with</div>
+				</td>
+			
+			</tr>
+			
+			
+			
+			<tr>
+				<td style="width: 1%;"><div class="groupNumber">6.</div></td>
+				<td class="posList"><a title="verb - click to jump to the full definition" href="#s85607" class="anchorlink needsclick pos_v selected">v</a></td>
+				<td>
+					<div class="def selected s85607">have faith or confidence in</div>
+				</td>
+			
+			</tr>
+			
+			
+			</table>
+			</div>
+						
+						
+				
+			<div class="section definition">	
+		<div class="sectionHeader">Full Definitions of <span class="word">look</span></div>	
+		
+		
+		
+		
+		 	
+				<!-- BEGIN GROUP --><div class="group"><div class="groupNumber">1</div>
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal first">
+					
+						
+						<div class="sense pos_v ord1 sord1" id="s92746">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s92746" class="anchor">v</a>
+						    
+						    
+						     perceive with attention; direct one&#039;s gaze towards</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;She 
+<strong>looked</strong> over the expanse of land&#8221;</div>
+						
+							<div class="example">&#8220;<strong>Look</strong> at your child!&#8221;</div>
+						
+							<div class="example">&#8220;<strong>Look</strong>--a deer in the backyard!&#8221;</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+<dd class="more"><a href="javascript:void(0);" class="expander" >show 22 types...</a></dd>
+<dd class="less"><a href="javascript:void(0);" class="expander" >hide 22 types...</a></dd>
+
+
+
+
+
+
+<dd class="less">
+<a href="/dictionary/stare" class="word">stare</a>
+<div class="definition">fixate one's eyes</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/get a load" class="word">get a load</a>, <a href="/dictionary/have a look" class="word">have a look</a>, <a href="/dictionary/take a look" class="word">take a look</a>
+<div class="definition">look at with attention</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/look back" class="word">look back</a>, <a href="/dictionary/look backward" class="word">look backward</a>
+<div class="definition">look towards one's back</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/look away" class="word">look away</a>
+<div class="definition">avert one's gaze</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/look around" class="word">look around</a>
+<div class="definition">look about oneself</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/gaze" class="word">gaze</a>, <a href="/dictionary/stare" class="word">stare</a>
+<div class="definition">look at with fixed eyes</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/consider" class="word">consider</a>, <a href="/dictionary/regard" class="word">regard</a>
+<div class="definition">look at attentively</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/ogle" class="word">ogle</a>
+<div class="definition">look at with amorous intentions</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/give the glad eye" class="word">give the glad eye</a>
+<div class="definition">look seductively at someone</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/leer" class="word">leer</a>
+<div class="definition">look suggestively or obliquely; look or gaze with a sly, immodest, or malign expression</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/gape" class="word">gape</a>, <a href="/dictionary/gawk" class="word">gawk</a>, <a href="/dictionary/gawp" class="word">gawp</a>, <a href="/dictionary/goggle" class="word">goggle</a>
+<div class="definition">look with amazement; look stupidly</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/admire" class="word">admire</a>
+<div class="definition">look at with admiration</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/peep" class="word">peep</a>
+<div class="definition">look furtively</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/glance" class="word">glance</a>, <a href="/dictionary/glint" class="word">glint</a>, <a href="/dictionary/peek" class="word">peek</a>
+<div class="definition">throw a glance at; take a brief look at</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/gloat" class="word">gloat</a>
+<div class="definition">gaze at or think about something with great self-satisfaction, gratification, or joy</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/eye" class="word">eye</a>, <a href="/dictionary/eyeball" class="word">eyeball</a>
+<div class="definition">look at</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/give the eye" class="word">give the eye</a>, <a href="/dictionary/give the once over" class="word">give the once over</a>
+<div class="definition">look at with a critical eye</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/squint" class="word">squint</a>
+<div class="definition">be cross-eyed; have a squint or strabismus</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/peer" class="word">peer</a>
+<div class="definition">look searchingly</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/glare" class="word">glare</a>, <a href="/dictionary/glower" class="word">glower</a>
+<div class="definition">look at with a fixed gaze</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/outface" class="word">outface</a>, <a href="/dictionary/outstare" class="word">outstare</a>, <a href="/dictionary/stare down" class="word">stare down</a>
+<div class="definition">overcome or cause to waver or submit by (or as if by) staring</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/stargaze" class="word">stargaze</a>
+<div class="definition">observe the stars</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+										
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal ">
+					
+						
+						<div class="sense pos_v ord2 sord1" id="s85639">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s85639" class="anchor">v</a>
+						    
+						    
+						     look forward to the probable occurrence of</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;She is 
+<strong>looking</strong> to a promotion&#8221;</div>
+						
+						
+						
+<dl class="instances">
+<dt>Synonyms:</dt>
+
+
+
+
+
+<dd><a href="/dictionary/await" class="word">await</a>, <a href="/dictionary/expect" class="word">expect</a>, <a href="/dictionary/wait" class="word">wait</a></dd>
+
+
+
+
+
+			
+</dl>			
+
+						
+<dl class="instances">
+<dt></dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/anticipate" class="word">anticipate</a>, <a href="/dictionary/expect" class="word">expect</a>
+<div class="definition">regard something as probable or likely</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+<dd class="more"><a href="javascript:void(0);" class="expander" >show 6 types...</a></dd>
+<dd class="less"><a href="javascript:void(0);" class="expander" >hide 6 types...</a></dd>
+
+
+
+
+
+
+<dd class="less">
+<a href="/dictionary/expect" class="word">expect</a>
+<div class="definition">look forward to the birth of a child</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/look forward" class="word">look forward</a>
+<div class="definition">expect or hope for</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/look to" class="word">look to</a>
+<div class="definition">turn one's interests or expectations towards</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/hang on" class="word">hang on</a>, <a href="/dictionary/hold on" class="word">hold on</a>, <a href="/dictionary/hold the line" class="word">hold the line</a>
+<div class="definition">hold the phone line open</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/anticipate" class="word">anticipate</a>, <a href="/dictionary/look for" class="word">look for</a>, <a href="/dictionary/look to" class="word">look to</a>
+<div class="definition">be excited or anxious about</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/apprehend" class="word">apprehend</a>, <a href="/dictionary/quail at" class="word">quail at</a>
+<div class="definition">anticipate with dread or anxiety</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+										
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal ">
+					
+						
+						<div class="sense pos_n ord3 sord1" id="s4460">
+						<h3 class="definition">
+						    <a title="noun" name="s4460" class="anchor">n</a>
+						    
+						    
+						    
+						     the act of directing the eyes toward something and perceiving it visually</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;he went out to have a 
+<strong>look</strong>&#8221;</div>
+						
+							<div class="example">&#8220;his 
+<strong>look</strong> was fixed on her eyes&#8221;</div>
+						
+							<div class="example">&#8220;he gave it a good 
+<strong>looking</strong> at&#8221;</div>
+						
+							<div class="example">&#8220;his camera does his 
+<strong>looking</strong> for him&#8221;</div>
+						
+						
+						
+<dl class="instances">
+<dt>Synonyms:</dt>
+
+
+
+
+
+<dd><a href="/dictionary/looking" class="word">looking</a>, <a href="/dictionary/looking at" class="word">looking at</a></dd>
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+<dd class="more"><a href="javascript:void(0);" class="expander" >show 21 types...</a></dd>
+<dd class="less"><a href="javascript:void(0);" class="expander" >hide 21 types...</a></dd>
+
+
+
+
+
+
+<dd class="less">
+<a href="/dictionary/coup d'oeil" class="word">coup d'oeil</a>, <a href="/dictionary/glance" class="word">glance</a>, <a href="/dictionary/glimpse" class="word">glimpse</a>
+<div class="definition">a quick look</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/scrutiny" class="word">scrutiny</a>
+<div class="definition">a prolonged intense look</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/peek" class="word">peek</a>, <a href="/dictionary/peep" class="word">peep</a>
+<div class="definition">a secret look</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/squint" class="word">squint</a>
+<div class="definition">the act of squinting; looking with the eyes partly closed</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/stare" class="word">stare</a>
+<div class="definition">a fixed look with eyes open wide</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/evil eye" class="word">evil eye</a>
+<div class="definition">a look that is believed to have the power of inflicting harm</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/rubber-necking" class="word">rubber-necking</a>, <a href="/dictionary/sightseeing" class="word">sightseeing</a>
+<div class="definition">going about to look at places of interest</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/observance" class="word">observance</a>, <a href="/dictionary/observation" class="word">observation</a>, <a href="/dictionary/watching" class="word">watching</a>
+<div class="definition">the act of observing; taking a patient look</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/lookout" class="word">lookout</a>, <a href="/dictionary/outlook" class="word">outlook</a>
+<div class="definition">the act of looking out</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/sight" class="word">sight</a>, <a href="/dictionary/survey" class="word">survey</a>, <a href="/dictionary/view" class="word">view</a>
+<div class="definition">the act of looking or seeing or observing</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/dekko" class="word">dekko</a>
+<div class="definition">British slang for a look</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/eye-beaming" class="word">eye-beaming</a>
+<div class="definition">a radiant glance of the eye</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/side-glance" class="word">side-glance</a>, <a href="/dictionary/side-look" class="word">side-look</a>
+<div class="definition">a glance sideways</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/gaze" class="word">gaze</a>, <a href="/dictionary/regard" class="word">regard</a>
+<div class="definition">a long fixed look</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/glare" class="word">glare</a>, <a href="/dictionary/glower" class="word">glower</a>
+<div class="definition">an angry stare</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/contemplation" class="word">contemplation</a>
+<div class="definition">a long and thoughtful observation</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/gape" class="word">gape</a>
+<div class="definition">a stare of amazement (usually with the mouth open)</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/monitoring" class="word">monitoring</a>
+<div class="definition">the act of observing something (and sometimes keeping a record of it)</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/sighting" class="word">sighting</a>
+<div class="definition">the act of observing</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/stargazing" class="word">stargazing</a>
+<div class="definition">observation of the stars</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/eyeful" class="word">eyeful</a>
+<div class="definition">a full view; a good look</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/perception" class="word">perception</a>, <a href="/dictionary/sensing" class="word">sensing</a>
+<div class="definition">becoming aware of something via the senses</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+				</div><!-- END GROUP -->
+			
+				<!-- BEGIN GROUP --><div class="group"><div class="groupNumber">2</div>
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal first">
+					
+						
+						<div class="sense pos_v ord1 sord1" id="s92758">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s92758" class="anchor">v</a>
+						    
+						    
+						     give a certain impression or have a certain outward aspect</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;This project 
+<strong>looks</strong> fishy&#8221;</div>
+						
+						
+						
+<dl class="instances">
+<dt>Synonyms:</dt>
+
+
+
+
+
+<dd><a href="/dictionary/appear" class="word">appear</a>, <a href="/dictionary/seem" class="word">seem</a></dd>
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+<dd class="more"><a href="javascript:void(0);" class="expander" >show 16 types...</a></dd>
+<dd class="less"><a href="javascript:void(0);" class="expander" >hide 16 types...</a></dd>
+
+
+
+
+
+
+<dd class="less">
+<a href="/dictionary/make" class="word">make</a>
+<div class="definition">appear to begin an activity</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/cut" class="word">cut</a>
+<div class="definition">give the appearance or impression of</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/feel" class="word">feel</a>
+<div class="definition">produce a certain impression</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/pass off" class="word">pass off</a>
+<div class="definition">be accepted as something or somebody in a false character or identity</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/sound" class="word">sound</a>
+<div class="definition">appear in a certain way</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/come across" class="word">come across</a>
+<div class="definition">be perceived in a certain way; make a certain impression</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/beam" class="word">beam</a>, <a href="/dictionary/glow" class="word">glow</a>, <a href="/dictionary/radiate" class="word">radiate</a>, <a href="/dictionary/shine" class="word">shine</a>
+<div class="definition">have a complexion with a strong bright color, such as red or pink</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/gleam" class="word">gleam</a>, <a href="/dictionary/glint" class="word">glint</a>, <a href="/dictionary/glisten" class="word">glisten</a>, <a href="/dictionary/glitter" class="word">glitter</a>, <a href="/dictionary/shine" class="word">shine</a>
+<div class="definition">be shiny, as if wet</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/jump" class="word">jump</a>, <a href="/dictionary/jump out" class="word">jump out</a>, <a href="/dictionary/leap out" class="word">leap out</a>, <a href="/dictionary/stand out" class="word">stand out</a>, <a href="/dictionary/stick out" class="word">stick out</a>
+<div class="definition">be highly noticeable</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/lift" class="word">lift</a>, <a href="/dictionary/rear" class="word">rear</a>, <a href="/dictionary/rise" class="word">rise</a>
+<div class="definition">rise up</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/loom" class="word">loom</a>
+<div class="definition">come into view indistinctly, often threateningly</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/feel" class="word">feel</a>
+<div class="definition">be felt or perceived in a certain way</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/spangle" class="word">spangle</a>
+<div class="definition">glitter as if covered with spangles</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/hulk" class="word">hulk</a>, <a href="/dictionary/loom" class="word">loom</a>, <a href="/dictionary/predominate" class="word">predominate</a>, <a href="/dictionary/tower" class="word">tower</a>
+<div class="definition">appear very large or occupy a commanding position</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/shimmer" class="word">shimmer</a>
+<div class="definition">give off a shimmering reflection, as of silk</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/crawl" class="word">crawl</a>
+<div class="definition">feel as if crawling with insects</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/be" class="word">be</a>
+<div class="definition">have the quality of being; (copula, used with an adjective or a predicate noun)</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal ">
+					
+						
+						<div class="sense pos_v ord2 sord1" id="s82271">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s82271" class="anchor">v</a>
+						    
+						    
+						     have a certain outward or facial expression</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;How does she 
+<strong>look</strong>?&#8221;</div>
+						
+							<div class="example">&#8220;The child 
+<strong>looks</strong> unhappy&#8221;</div>
+						
+							<div class="example">&#8220;She 
+<strong>looked</strong> pale after the surgery&#8221;</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/squint" class="word">squint</a>
+<div class="definition">partly close one's eyes, as when hit by direct blinding light</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/be" class="word">be</a>
+<div class="definition">have the quality of being; (copula, used with an adjective or a predicate noun)</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal ">
+					
+						
+						<div class="sense pos_v ord3 sord1" id="s95293">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s95293" class="anchor">v</a>
+						    
+						    
+						     accord in appearance with</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;You don't 
+<strong>look</strong> your age!&#8221;</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/agree" class="word">agree</a>, <a href="/dictionary/check" class="word">check</a>, <a href="/dictionary/correspond" class="word">correspond</a>, <a href="/dictionary/fit" class="word">fit</a>, <a href="/dictionary/gibe" class="word">gibe</a>, <a href="/dictionary/jibe" class="word">jibe</a>, <a href="/dictionary/match" class="word">match</a>, <a href="/dictionary/tally" class="word">tally</a>
+<div class="definition">be compatible, similar or consistent; coincide in their characteristics</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal ">
+					
+						
+						<div class="sense pos_v ord4 sord1" id="s86594">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s86594" class="anchor">v</a>
+						    
+						    
+						     convey by one&#039;s expression</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;She 
+<strong>looked</strong> her devotion to me&#8221;</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/convey" class="word">convey</a>
+<div class="definition">make known; pass on, of information</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal ">
+					
+						
+						<div class="sense pos_n ord5 sord1" id="s26077">
+						<h3 class="definition">
+						    <a title="noun" name="s26077" class="anchor">n</a>
+						    
+						    
+						    
+						     physical appearance</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;I don't like the 
+<strong>looks</strong> of this place&#8221;</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/appearance" class="word">appearance</a>, <a href="/dictionary/visual aspect" class="word">visual aspect</a>
+<div class="definition">outward or visible aspect of a person or thing</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal ">
+					
+						
+						<div class="sense pos_n ord6 sord1" id="s77796">
+						<h3 class="definition">
+						    <a title="noun" name="s77796" class="anchor">n</a>
+						    
+						    
+						    
+						     the general atmosphere of a place or situation and the effect that it has on people</h3>
+						<div class="defContent">
+						
+						
+						
+						
+<dl class="instances">
+<dt>Synonyms:</dt>
+
+
+
+
+
+<dd><a href="/dictionary/feel" class="word">feel</a>, <a href="/dictionary/feeling" class="word">feeling</a>, <a href="/dictionary/flavor" class="word">flavor</a>, <a href="/dictionary/flavour" class="word">flavour</a>, <a href="/dictionary/smell" class="word">smell</a>, <a href="/dictionary/spirit" class="word">spirit</a>, <a href="/dictionary/tone" class="word">tone</a></dd>
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/Hollywood" class="word">Hollywood</a>
+<div class="definition">a flashy vulgar tone or atmosphere believed to be characteristic of the American film industry</div>
+</dd>			
+
+
+<dd >
+<a href="/dictionary/Zeitgeist" class="word">Zeitgeist</a>
+<div class="definition">the spirit of the time; the spirit characteristic of an age or generation</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/ambiance" class="word">ambiance</a>, <a href="/dictionary/ambience" class="word">ambience</a>, <a href="/dictionary/atmosphere" class="word">atmosphere</a>
+<div class="definition">a particular environment or surrounding influence</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal ">
+					
+						
+						<div class="sense pos_n ord7 sord1" id="s26102">
+						<h3 class="definition">
+						    <a title="noun" name="s26102" class="anchor">n</a>
+						    
+						    
+						    
+						     the feelings expressed on a person&#039;s face</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;a 
+<strong>look</strong> of triumph&#8221;</div>
+						
+						
+						
+<dl class="instances">
+<dt>Synonyms:</dt>
+
+
+
+
+
+<dd><a href="/dictionary/aspect" class="word">aspect</a>, <a href="/dictionary/expression" class="word">expression</a>, <a href="/dictionary/face" class="word">face</a>, <a href="/dictionary/facial expression" class="word">facial expression</a></dd>
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/leer" class="word">leer</a>
+<div class="definition">a suggestive or sneering look or grin</div>
+</dd>			
+
+
+<dd >
+<a href="/dictionary/light" class="word">light</a>, <a href="/dictionary/spark" class="word">spark</a>, <a href="/dictionary/sparkle" class="word">sparkle</a>, <a href="/dictionary/twinkle" class="word">twinkle</a>
+<div class="definition">merriment expressed by a brightness or gleam or animation of countenance</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/countenance" class="word">countenance</a>, <a href="/dictionary/visage" class="word">visage</a>
+<div class="definition">the appearance conveyed by a person's face</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+				</div><!-- END GROUP -->
+			
+				<!-- BEGIN GROUP --><div class="group"><div class="groupNumber">3</div>
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal first">
+					
+						
+						<div class="sense pos_v ord1 sord1" id="s92860">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s92860" class="anchor">v</a>
+						    
+						    
+						     search or seek</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;We 
+<strong>looked</strong> all day and finally found the child in the forest&#8221;</div>
+						
+							<div class="example">&#8220;<strong>Look</strong> elsewhere for the perfect gift!&#8221;</div>
+						
+						
+						
+<dl class="instances">
+<dt>Synonyms:</dt>
+
+
+
+
+
+<dd><a href="/dictionary/search" class="word">search</a></dd>
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/hunt" class="word">hunt</a>
+<div class="definition">search (an area) for prey</div>
+</dd>			
+
+
+<dd >
+<a href="/dictionary/prospect" class="word">prospect</a>
+<div class="definition">search for something desirable</div>
+</dd>			
+
+
+<dd >
+<a href="/dictionary/horn in" class="word">horn in</a>, <a href="/dictionary/intrude" class="word">intrude</a>, <a href="/dictionary/nose" class="word">nose</a>, <a href="/dictionary/poke" class="word">poke</a>, <a href="/dictionary/pry" class="word">pry</a>
+<div class="definition">search or inquire in a meddlesome way</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/examine" class="word">examine</a>, <a href="/dictionary/see" class="word">see</a>
+<div class="definition">observe, check out, and look over carefully or inspect</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+				</div><!-- END GROUP -->
+			
+				<!-- BEGIN GROUP --><div class="group"><div class="groupNumber">4</div>
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal first">
+					
+						
+						<div class="sense pos_v ord1 sord1" id="s95460">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s95460" class="anchor">v</a>
+						    
+						    
+						     be oriented in a certain direction, often with respect to another reference point; be opposite to</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;The house 
+<strong>looks</strong> north&#8221;</div>
+						
+							<div class="example">&#8220;My backyard 
+<strong>look</strong> onto the pond&#8221;</div>
+						
+						
+						
+<dl class="instances">
+<dt>Synonyms:</dt>
+
+
+
+
+
+<dd><a href="/dictionary/face" class="word">face</a>, <a href="/dictionary/front" class="word">front</a></dd>
+
+
+
+
+
+			
+</dl>			
+
+						
+<dl class="instances">
+<dt></dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/face" class="word">face</a>
+<div class="definition">be opposite</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+<dl class="instances">
+<dt>Antonyms:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/back" class="word">back</a>
+<div class="definition">be in back of</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/confront" class="word">confront</a>
+<div class="definition">be face to face with</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/lie" class="word">lie</a>
+<div class="definition">be located or situated somewhere; occupy a certain position</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+				</div><!-- END GROUP -->
+			
+				<!-- BEGIN GROUP --><div class="group"><div class="groupNumber">5</div>
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal first">
+					
+						
+						<div class="sense pos_v ord1 sord1" id="s94780">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s94780" class="anchor">v</a>
+						    
+						    
+						     take charge of or deal with</h3>
+						<div class="defContent">
+						
+						
+						
+						
+<dl class="instances">
+<dt>Synonyms:</dt>
+
+
+
+
+
+<dd><a href="/dictionary/attend" class="word">attend</a>, <a href="/dictionary/see" class="word">see</a>, <a href="/dictionary/take care" class="word">take care</a></dd>
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+<dl class="instances">
+<dt>Types:</dt>
+
+
+
+<dd class="more"><a href="javascript:void(0);" class="expander" >show 4 types...</a></dd>
+<dd class="less"><a href="javascript:void(0);" class="expander" >hide 4 types...</a></dd>
+
+
+
+
+
+
+<dd class="less">
+<a href="/dictionary/minister" class="word">minister</a>
+<div class="definition">attend to the wants and needs of others</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/tend" class="word">tend</a>
+<div class="definition">have care of or look after</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/garden" class="word">garden</a>
+<div class="definition">work in the garden</div>
+</dd>			
+
+
+<dd class="less">
+<a href="/dictionary/shepherd" class="word">shepherd</a>
+<div class="definition">tend as a shepherd, as of sheep or goats</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/care" class="word">care</a>, <a href="/dictionary/give care" class="word">give care</a>
+<div class="definition">provide care for</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+				</div><!-- END GROUP -->
+			
+				<!-- BEGIN GROUP --><div class="group"><div class="groupNumber">6</div>
+				
+					<!-- BEGIN ORDINAL --><div class="ordinal first">
+					
+						
+						<div class="sense pos_v ord1 sord1" id="s85607">
+						<h3 class="definition">
+						    
+						    <a title="verb" name="s85607" class="anchor">v</a>
+						    
+						    
+						     have faith or confidence in</h3>
+						<div class="defContent">
+						
+						
+							<div class="example">&#8220;<strong>Look</strong> to your friends for support&#8221;</div>
+						
+						
+						
+<dl class="instances">
+<dt>Synonyms:</dt>
+
+
+
+
+
+<dd><a href="/dictionary/bet" class="word">bet</a>, <a href="/dictionary/calculate" class="word">calculate</a>, <a href="/dictionary/count" class="word">count</a>, <a href="/dictionary/depend" class="word">depend</a>, <a href="/dictionary/reckon" class="word">reckon</a></dd>
+
+
+
+
+
+			
+</dl>			
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+								
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+<dl class="instances">
+<dt>Type of:</dt>
+
+
+
+
+
+
+
+<dd >
+<a href="/dictionary/bank" class="word">bank</a>, <a href="/dictionary/rely" class="word">rely</a>, <a href="/dictionary/swear" class="word">swear</a>, <a href="/dictionary/trust" class="word">trust</a>
+<div class="definition">have confidence or faith in</div>
+</dd>			
+
+
+
+
+
+
+			
+</dl>			
+				
+					
+						</div>
+						</div>
+						
+						
+					
+					</div><!-- END ORDINAL -->
+				
+				</div><!-- END GROUP -->
+			
+		
+		
+		
+		
+	</div>
+	</div>	
+		
+	</div>
+		
+	<div class="section related nocontent robots-nocontent">
+		
+			
+		
+		
+		
+				
+		
+		
+		
+		<div class="section family"><div class="sectionHeader">Word Family</div> 
+			<vcom:wordfamily lang="en" word="look" data="[{&#034;word&#034;:&#034;look&#034;,&#034;hw&#034;:true,&#034;freq&#034;:320.3083557942003,&#034;ffreq&#034;:834.6994330136055,&#034;size&#034;:13,&#034;type&#034;:0},{&#034;word&#034;:&#034;looked&#034;,&#034;parent&#034;:&#034;look&#034;,&#034;freq&#034;:282.73019167212743,&#034;ffreq&#034;:282.73019167212743,&#034;size&#034;:1,&#034;type&#034;:1},{&#034;word&#034;:&#034;looker&#034;,&#034;hw&#034;:true,&#034;parent&#034;:&#034;look&#034;,&#034;freq&#034;:0.2162562647946592,&#034;ffreq&#034;:0.3292916207280178,&#034;size&#034;:2,&#034;type&#034;:2},{&#034;word&#034;:&#034;looking&#034;,&#034;hw&#034;:true,&#034;parent&#034;:&#034;look&#034;,&#034;freq&#034;:155.87135625237963,&#034;ffreq&#034;:155.87846326577662,&#034;size&#034;:4,&#034;type&#034;:1},{&#034;word&#034;:&#034;looks&#034;,&#034;parent&#034;:&#034;look&#034;,&#034;freq&#034;:61.494956349050305,&#034;ffreq&#034;:61.494956349050305,&#034;size&#034;:1,&#034;type&#034;:1},{&#034;word&#034;:&#034;overlook&#034;,&#034;hw&#034;:true,&#034;parent&#034;:&#034;look&#034;,&#034;freq&#034;:3.216769635169383,&#034;ffreq&#034;:13.958174311722887,&#034;size&#034;:4,&#034;type&#034;:4},{&#034;word&#034;:&#034;lookers&#034;,&#034;parent&#034;:&#034;looker&#034;,&#034;freq&#034;:0.11303535593335864,&#034;ffreq&#034;:0.11303535593335864,&#034;size&#034;:1,&#034;type&#034;:1},{&#034;word&#034;:&#034;lookingly&#034;,&#034;parent&#034;:&#034;looking&#034;,&#034;freq&#034;:6.768584187626267E-4,&#034;ffreq&#034;:6.768584187626267E-4,&#034;size&#034;:1,&#034;type&#034;:1},{&#034;word&#034;:&#034;lookings&#034;,&#034;parent&#034;:&#034;looking&#034;,&#034;freq&#034;:0.006430154978244953,&#034;ffreq&#034;:0.006430154978244953,&#034;size&#034;:1,&#034;type&#034;:1},{&#034;word&#034;:&#034;overlooked&#034;,&#034;hw&#034;:true,&#034;parent&#034;:&#034;overlook&#034;,&#034;freq&#034;:6.157381035483615,&#034;ffreq&#034;:6.157381035483615,&#034;size&#034;:1,&#034;type&#034;:1},{&#034;word&#034;:&#034;overlooking&#034;,&#034;hw&#034;:true,&#034;parent&#034;:&#034;overlook&#034;,&#034;freq&#034;:3.7799158395798886,&#034;ffreq&#034;:3.7799158395798886,&#034;size&#034;:1,&#034;type&#034;:1},{&#034;word&#034;:&#034;overlooks&#034;,&#034;parent&#034;:&#034;overlook&#034;,&#034;freq&#034;:0.8041078014900005,&#034;ffreq&#034;:0.8041078014900005,&#034;size&#034;:1,&#034;type&#034;:1}]"></vcom:wordfamily>
+		</div>
+		<div class="section examples" ><div class="sectionHeader">Usage Examples</div>
+			<vcom:examples lang="en" word="look" count="4" filter="0" ></vcom:examples>
+		</div>			
+		
+		
+		<div class="adslot" id="dictionary-lower-ad" data-adunit="Dictionary-Result-Lower-Right" data-dimensions="[[300, 250], [336, 280]]" data-lazy="true" ></div>
+		
+	</div>	
+
+	</div>		
+</div></div>
+</div>
+</div>
+
+
+<section class="signup-tout center clearfloat sectionbg">
+<div class="limited-width ">
+	<h2>Sign up, it's free!</h2>
+	<div class="margin2 margin2r col8" >
+		<p>
+		Whether you're a student, an educator, or a lifelong learner, Vocabulary.com can put you
+		on the path to systematic vocabulary improvement. <br>
+		</p>
+		
+		<a role="button" class="signup button green" href="/signup/">Get Started</a>
+		
+	</div>
+</div>
+</section>
+
+
+<footer class="page-footer">
+<nav class="sitelinks limited-width hide-mobile clearfloat screen-only">
+	<div class="col2 ">
+			<h3>For Everyone</h3>
+			<ul>
+			<li><a href="/play/">Play the Challenge</a></li>
+			<li><a href="/lists/">Vocabulary Lists</a></li>
+			<li><a href="/dictionary/">Dictionary</a></li>				
+			<li><a href="/articles/chooseyourwords/">Choose Your Words</a></li>			
+			</ul>				
+		</div>
+			
+		<div class="col2 ">
+			<h3><a href="/educator-edition/">For Educators</a></h3>
+			<ul>
+			<li><a href="/educator-edition/">Educator Edition</a></li>		
+			<li><a href="/educator-edition/pricing/">Plans &amp; Pricing</a></li>
+			<li><a href="/educator-edition/sales/">Contact Sales</a></li>
+			<li><a href="/articles/success-stories/">Success Stories</a></li>
+			</ul>				
+		</div>
+		
+		<div class="col2 ">
+			<h3><a href="/help/">Help</a></h3>
+			<ul>
+			<li><a href="/help/">Help Articles / FAQ</a></li>			
+			<!--  <li><a href="/help/videos/">How-to Videos</a></li>-->
+			<li><a href="/help/webinars">Training &amp; Webinars</a></li>	
+			<li><a href="/help/contactus">Contact Support</a></li>
+			<li><a>&nbsp;</a></li>	
+			</ul>				
+		</div>
+					
+		<div class="col2 ">
+			<h3><a href="/leaderboards/">Leaderboards</a></h3>
+			<ul>
+			<li><a href="/bowl/">Vocabulary Bowl</a></li>	
+			<li><a href="/leaderboards/bowl/">Bowl Leaders</a></li>					
+			<li><a href="/leaderboards/today/">Today's Leaders</a></li>
+			<li><a href="/leaderboards/thisweek/">Weekly Leaders</a></li>
+			<li><a href="/leaderboards/thismonth/">Monthly Leaders</a></li>						
+			</ul>						
+		</div>	
+				
+		<div class="col2 ">
+			<h3><a href="/blog/">Connect</a></h3>
+			<ul>
+			<li><a href="/blog/">Vocabulary.com Blog</a></li>
+			<li><a href="https://twitter.com/VocabularyCom">Twitter</a></li>
+			<li><a href="https://www.facebook.com/vocabularycom">Facebook</a></li>
+			
+			</ul>				
+		</div>
+		
+		<div class="col2 ">
+			<h3><a href="/about/">Our Story</a></h3>
+			<ul>
+			<li><a href="/about/">Our Mission</a></li>
+			<li><a href="/about/team/">Team / Jobs</a></li>
+			<li><a href="/about/news/">News &amp; Events</a></li>				
+			<li><a href="/about/partnerships/">Partnerships</a></li>	
+			</ul>				
+		</div>
+
+</nav>
+<nav class="legal limited-width clearfloat">
+		<a href="/terms/">&copy; Vocabulary.com</a>
+		<a href="/terms/" class="screen-only">Terms of Use</a>
+		<a href="/privacy/" class="screen-only">Privacy Policy</a>
+</nav></footer>
+
+<nav class="sitemap screen-only">
+<div class="scrollable">
+<div>
+	<div class="limited-width mobile-5050 pad2y">
+	
+	<div class="col9">
+		<div class="col4 pad1x">
+			<h3>For Everyone</h3>
+			<ul>
+			<li><a href="/play/">Play the Challenge</a></li>
+			<li><a href="/lists/">Vocabulary Lists</a></li>
+			<li><a href="/dictionary/">Dictionary</a></li>				
+			<li><a href="/articles/chooseyourwords/">Choose Your Words</a></li>			
+			</ul>				
+		</div>
+			
+		<div class="col4 pad1x">
+			<h3><a href="/educator-edition/">For Educators</a></h3>
+			<ul>
+			<li><a href="/educator-edition/">Educator Edition</a></li>		
+			<li><a href="/educator-edition/pricing/">Plans &amp; Pricing</a></li>
+			<li><a href="/educator-edition/sales/">Contact Sales</a></li>
+			<li><a href="/articles/success-stories/">Success Stories</a></li> 
+			</ul>				
+		</div>
+		
+		<div class="col4 pad1x">
+			<h3><a href="/help/">Help</a></h3>
+			<ul>
+			<li><a href="/help/">Help Articles / FAQ</a></li>			
+			<!--<li><a href="/help/videos/">How-to Videos</a></li>-->
+			<li><a href="/help/webinars">Training &amp; Webinars</a></li>	
+			<li><a href="/help/contactus">Contact Support</a></li>	
+			<li><a>&nbsp;</a></li>	
+			</ul>				
+		</div>
+					
+		<div class="col4 pad1x">
+			<h3><a href="/leaderboards/">Leaderboards</a></h3>
+			<ul>
+			<li><a href="/bowl/">Vocabulary Bowl</a></li>	
+			<li><a href="/leaderboards/bowl/">Bowl Leaders</a></li>		
+			<li><a href="/leaderboards/today/">Today's Leaders</a></li>
+			<li><a href="/leaderboards/thisweek/">Weekly Leaders</a></li>
+			<li><a href="/leaderboards/thismonth/">Monthly Leaders</a></li>						
+			</ul>						
+		</div>	
+		
+		
+
+		<div class="col4 pad1x">
+			<h3><a href="/blog/">Connect</a></h3>
+			<ul>
+			<li><a href="/blog/">Vocabulary.com Blog</a></li>
+			<li><a href="https://twitter.com/VocabularyCom">Twitter</a></li>
+			<li><a href="https://www.facebook.com/vocabularycom">Facebook</a></li>
+			
+			</ul>				
+		</div>
+		
+		<div class="col4 pad1x">
+			<h3><a href="/about/">Our Story</a></h3>
+			<ul>
+			<li><a href="/about/">Our Mission</a></li>
+			<li><a href="/about/team/">Team / Jobs</a></li>
+			<li><a href="/about/news/">News &amp; Events</a></li>				
+			<li><a href="/about/partnerships/">Partnerships</a></li>	
+			</ul>				
+		</div>
+	</div>
+	<div class="col3 pad1x">
+		<h3><a href="/account/">My Account</a></h3>
+		<div class="loggedout-only clearfloat signinoptions">
+			<a role="button" class="google button" href="/login/google">Sign in with Google</a>			
+			<a role="button" class="facebook button" href="/login/facebook">Sign in with Facebook</a>	
+			<p>or, <a href="/login/">sign in with email.</a></p>
+			<p>Don't have an account yet?<br>
+			   <a href="/signup">Sign up. It's free and takes five seconds.</a>
+			</p>							
+		</div>
+		<ul class="loggedin-only">
+			<li><a href="/auth/logout"><i class="ss-logout"></i>Log Out</a></li>
+			<li class="perms-school-reports-only"><a href="/account/schools"><i class="ss-school ss-symbolicons-block"></i>Schools &amp; Teachers</a></li>
+			
+			<li class="nav-classes perms-create-class-only"><a href="/account/classes"><i class="ss-users"></i>My Classes</a></li>
+			
+			<li class="nav-assignments"><a href="/account/activities/"><i class="ss-attach"></i>Assignments &amp; Activities</a></li>
+			<li ><a href="/account/lists/"><i class="ss-list"></i>My Lists</a>
+			<ul>
+				<li><a href="/lists/"><i class="ss-search"></i>Find a List to Learn...</a></li>
+				<li><a href="/lists/new"><i class="ss-hospital ss-symbolicons-block"></i>Create a New List...</a></li>
+			</ul>
+			</li>
+			<li><a href="/progress/"><i class="ss-barchart"></i>My Progress</a>
+				<ul>
+					<li><a href="/account/progress/words/learning"><i class="ss-hiker ss-symbolicons-block"></i>Words I'm Learning</a></li>
+					<li><a href="/account/progress/words/trouble"><i class="ss-bullseye ss-symbolicons-block"></i>My Trouble Words</a></li>
+					<li><a href="/account/progress/words/mastered"><i class="ss-check ss-symbolicons-block"></i>Words I've Mastered</a></li>
+					<li><a href="/account/progress/achievements"><i class="ss-award ss-symbolicons-block"></i>My Achievements</a></li>
+				</ul>
+			</li>	
+			<li class="perms-user-admin-only"><a href="/account/users"><i class="ss-usergroup ss-symbolicons-block "></i>User Administration</a></li>
+			<li class="perms-auth-admin-only"><a href="/account/authentication"><i class="ss-key"></i>User Authentication</a></li>
+			<li>
+				<a href="/account/"><i class="ss-settings"></i>My Account</a>			
+			</li>
+		</ul>
+	</div>
+	</div>		
+	<div class="copyright pad2y">				
+		<div class="limited-width">
+		<span>&copy; Vocabulary.com</span>			
+		<div class="terms">
+		<a href="/terms/">Terms of Use</a>
+		<a href="/privacy/">Privacy Policy</a>
+		</div>
+		</div>
+	</div>	
+</div></div>
+<div class="nub"></div>				
+</nav>
+</div>
+
+</body>
+
+</html>

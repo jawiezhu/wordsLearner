@@ -6,6 +6,7 @@ import sys
 import commands
 import os
 import pandas as pd
+import getExplain
 
 
 
@@ -29,24 +30,6 @@ def writeToLocal(contents,WORD):
         print contents
         FILE.close()
 
-
-def ProcessCONTENTS(contents):
-    soup = BeautifulSoup(contents, 'lxml')
-    explain = ''
-    for tag in soup.find_all('div', class_='section blurb'):
-        explain = tag.get_text().encode('utf-8')    
-    if explain == '':
-        explain = 'no explain'
-
-
-    #print soup.prettify
-    #for tag in soup.find_all('div', class_='sentence'):
-    #    print 'aaaa'
-    #    example = tag.get_text().encode('utf-8')
-    #    print example
-    return explain
-
-
 def main():
     if len(sys.argv) != 2:
         print 'usuage: python ./main.py {words you want to know}'
@@ -59,7 +42,7 @@ def main():
 
     URL = 'https://www.vocabulary.com/dictionary/'+WORD
     CONTENTS = getHtmlContents(URL)
-    EXPLAIN = ProcessCONTENTS(CONTENTS)
+    EXPLAIN = getExplain.ProcessCONTENTS(CONTENTS)
     writeToLocal(EXPLAIN, WORD)
 
 if __name__ == '__main__':

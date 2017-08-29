@@ -40,7 +40,7 @@ def main():
 #        WORDS_DF = pd.read_csv('/Users/JawieZhu/Desktop/words.csv')
 #        print WORDS_DF 
 
-    URL = 'https://www.vocabulary.com/dictionary/'+WORD
+    URL = 'https://www.vocabulary.com/dictionary/' + WORD
     CONTENTS = getHtmlContents(URL)
     EXPLAIN = getExplain.ProcessCONTENTS(CONTENTS)
     writeToLocal(EXPLAIN, WORD)

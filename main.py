@@ -7,6 +7,8 @@ import commands
 import os
 import pandas as pd
 import getExplain
+import getExample
+
 
 
 
@@ -39,11 +41,16 @@ def main():
 #    if WORD == 'checklocalfile':
 #        WORDS_DF = pd.read_csv('/Users/JawieZhu/Desktop/words.csv')
 #        print WORDS_DF 
-
+    print 'start...\n'
     URL = 'https://www.vocabulary.com/dictionary/' + WORD
     CONTENTS = getHtmlContents(URL)
+    #print CONTENTS
+    
     EXPLAIN = getExplain.ProcessCONTENTS(CONTENTS)
     writeToLocal(EXPLAIN, WORD)
+    print 'expaination done...\n'
+    getExample.getExample(URL,WORD)
+    print 'example done...\n'
 
 if __name__ == '__main__':
     main()
